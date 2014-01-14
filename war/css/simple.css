@@ -1,0 +1,78 @@
+.css_title {
+    border-bottom: 5px #3cf solid;
+    padding-bottom: 5px;
+    font-family:Arial, fantasy;
+    font-size: 22px;
+    width: 400px;
+}
+
+.file_type_area {
+    font-family:Arial, sans-serif;
+    font-size:1.0em;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#708090;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.file_type {
+    font-family:Arial, sans-serif;
+    font-size:1.0em;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#708090;
+    border: 2px solid #f0f0f0;
+    border-radius: 5px;
+}
+
+.css_button {
+    border:solid 1px #ccc;
+    padding:15px 25px;
+    margin:0 0 20px;
+    font-family:Arial, sans-serif;
+    font-size:1.0em;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#708090;
+    background-color:#f5f5f5;
+    cursor:pointer;
+    border-radius: 5px;
+}
+
+.css_button_ok {
+    border:solid 1px #ccc;
+    padding:8px 15px;
+    margin:0 0 20px;
+    font-family:Arial, sans-serif;
+    font-size:1.0em;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#60A070;
+    cursor:pointer;
+    border-radius: 5px;
+}
+
+.css_button_ok:hover {
+    color:#eee8aa;
+    background-color:#2e8b87;
+}
+
+.css_button_cancel {
+    border:solid 1px #ccc;
+    padding:15px 30px;
+    margin:0 0 20px;
+    font-family:Arial, sans-serif;
+    font-size:1.2em;
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:#e9967a;
+    cursor:pointer;
+}
+
+.css_button_cancel:hover {
+    color:#eee8aa;
+    background-color:#dc143c;
+}
